@@ -1,0 +1,187 @@
+****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 你好小志。
+tts_text_"很高兴见到你"		&
+begain to start Wakeup  
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradCast ^^^^end  ####### _WAIT	writed
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 唱首歌听。
+media_url_"http://fs.w.kugou.com/201802021558/5c0b256f70262d6f71f0296a88a697a0/G003/M08/0C/0B/o4YBAFS63ISAbabHADOjuG_jdfs135.mp3"		&
+http://fs.w.kugou.com/201802021558/5c0b256f70262d6f71f0296a88a697a0/G003/M08/0C/0B/o4YBAFS63ISAbabHADOjuG_jdfs135.mp3
+begain to start Wakeup  
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 播放，真的爱你。
+tts_text_"哈哈哈哈,这个我还在学习中,请给一点时间"		&
+begain to start Wakeup  
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradCast ^^^^end  ####### _WAIT	writed
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 播放真的爱你。
+media_url_"http://fs.w.kugou.com/201802021532/457d443f377b752121f3999a33c5d2d0/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3"		&
+http://fs.w.kugou.com/201802021532/457d443f377b752121f3999a33c5d2d0/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3
+begain to start Wakeup  
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 你好小志，增大音量。
+media_CommandSystemVolume_"3"		&
+begain to start Wakeup  
+start from main func!!!!!!
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 增大音量。
+media_CommandSystemVolume_"3"		&
+begain to start Wakeup  
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 降低音量。
+media_CommandSystemVolume_"1"		&
+begain to start Wakeup  
+start from main func!!!!!!
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 播放真的爱你。
+media_url_"http://fs.w.kugou.com/201802021547/e37bad7073294f4a7f0e9b3d20b8cfc6/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3"		&
+http://fs.w.kugou.com/201802021547/e37bad7073294f4a7f0e9b3d20b8cfc6/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3
+begain to start Wakeup  
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 降低音量。
+media_CommandSystemVolume_"1"		&
+begain to start Wakeup  
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 继续。
+media_CommandMediaControl_"mediaResume"		&
+begain to start Wakeup  
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 降低音量。
+media_CommandSystemVolume_"1"		&
+begain to start Wakeup  
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 继续。
+media_CommandMediaControl_"mediaResume"		&
+begain to start Wakeup  
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 降低音量，
+media_CommandSystemVolume_"1"		&
+begain to start Wakeup  
+start from main func!!!!!!
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 播放真的爱你。
+media_url_"http://fs.w.kugou.com/201802021532/457d443f377b752121f3999a33c5d2d0/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3"		&
+http://fs.w.kugou.com/201802021532/457d443f377b752121f3999a33c5d2d0/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3
+begain to start Wakeup  
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 增大音量。
+media_CommandSystemVolume_"3"		&
+begain to start Wakeup  
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 降低音量。
+media_CommandSystemVolume_"1"		&
+begain to start Wakeup  
+start from main func!!!!!!
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 爱你。
+tts_text_"我也很喜欢你呢，我们做好朋友吧"		&
+begain to start Wakeup  
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 播放真的爱你。
+media_url_"http://fs.w.kugou.com/201802021532/457d443f377b752121f3999a33c5d2d0/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3"		&
+http://fs.w.kugou.com/201802021532/457d443f377b752121f3999a33c5d2d0/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3
+begain to start Wakeup  
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 真大。
+tts_text_"其实这也是一种自信的表现！,"		&
+begain to start Wakeup  
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 增大音量。
+media_CommandSystemVolume_"3"		&
+begain to start Wakeup  
+dataBoradCast ^^^^end  ####### _WAIT	writed
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 播放真的爱你。
+media_url_"http://fs.w.kugou.com/201802021547/e37bad7073294f4a7f0e9b3d20b8cfc6/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3"		&
+http://fs.w.kugou.com/201802021547/e37bad7073294f4a7f0e9b3d20b8cfc6/G011/M09/15/15/q4YBAFT-puCAfa1WAEQCenpZ1LA693.mp3
+begain to start Wakeup  
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 降低音量。
+media_CommandSystemVolume_"1"		&
+begain to start Wakeup  
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 降低音量。
+media_CommandSystemVolume_"1"		&
+begain to start Wakeup  
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 增大音量。
+media_CommandSystemVolume_"3"		&
+begain to start Wakeup  
+0****************Aready**Wakeup
+finish post first Sec Data @@
+vad detected ended Speek
+quesCmdBuf - 增大音量。
+media_CommandSystemVolume_"3"		&
+begain to start Wakeup  
